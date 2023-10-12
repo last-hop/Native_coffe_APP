@@ -28,7 +28,9 @@ const HomeScreen = () => {
     <SafeAreaView>
       <ScrollView
         style={{
+          paddingTop:"10%",
           padding: SPACING,
+          marginBottom:"40%"
         }}
       >
         <View
